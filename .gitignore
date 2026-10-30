@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment secrets
+.env
+.env.local
+.env.production
+
+# React
+node_modules/
+build/
+dist/
+
+# IDE
+.vscode/
+
+fronted/.git-backup/
+backened/data/storage.json
